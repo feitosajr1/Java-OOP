@@ -1,1 +1,1 @@
-## Essa parte está em outro repositório 
+## Essa pasta está em outro repositório 
