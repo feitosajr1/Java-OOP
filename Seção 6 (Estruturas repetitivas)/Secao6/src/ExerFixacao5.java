@@ -21,18 +21,18 @@ public class ExerFixacao5 {
 //			System.out.print(i);
 //		}
 
-//		int y = 10;
-//		for (int i = 0; i < 4; i++) {
-//			System.out.println("Aqui está apenas os valores da variavél na passsagem: " + i);
-//			System.out.println("i: " + i);
-//			System.out.println("y: " + y);
-//			System.out.println("-----------------------");
-//			System.out.println("Console:");
-//			System.out.print(i);
-//			y = y + i;
-//			System.out.println(y);
-//			System.out.println("-----------------------");
-//		}
+		int y = 10;
+		for (int i = 0; i < 4; i++) {
+			System.out.println("Aqui está apenas os valores da variavél na passsagem: " + i);
+			System.out.println("i: " + i);
+			System.out.println("y: " + y);
+			System.out.println("-----------------------");
+			System.out.println("Console:");
+			System.out.print(i);
+			y = y + i;
+			System.out.println(y);
+			System.out.println("-----------------------");
+		}
 
 //		int x = 4;
 //		int y = 0;
@@ -50,12 +50,12 @@ public class ExerFixacao5 {
 //		}
 //		System.out.println(y);
 		
-		int x = 8;
-		int y = 3;
-		for (int i = 0; y < x; i++) {
-			x -= 2;
-			y += 1;
-			System.out.println(i);
-		}
+//		int x = 8;
+//		int y = 3;
+//		for (int i = 0; y < x; i++) {
+//			x -= 2;
+//			y += 1;
+//			System.out.println(i);
+//		}
 	}
 }

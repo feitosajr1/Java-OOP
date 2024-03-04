@@ -24,19 +24,19 @@ public class Ex5Aula {
 		int n;
 		System.out.println("Digite o proximo Int");
 		n = entrada.nextInt();
-		System.out.println("nextInt " + n);
+		System.out.println("Você digitou " + n);
 
 		// proximo numero double
 		double d;
 		System.out.println("Digite o proximo double");
 		d = entrada.nextDouble();
-		System.out.println("nextDouble " + d);
+		System.out.println("Você digitou " + d);
 		
 		// proximo char 
 		char k;
 		System.out.println("Digite o proximo char");
 		k = entrada.next().charAt(0);
-		System.out.println("next().charAt(0) " + k);
+		System.out.println("Você digitou " + k);
 
 		// entrada de varias 
 		String s;
@@ -54,8 +54,8 @@ public class Ex5Aula {
 		System.out.println("Digitado " + i);
 				
 				
-		// fazer um entrada.close()
 		entrada.close();
+		// fazer um entrada.close() para fechar a função inciada 
 	}
 
 }

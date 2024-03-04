@@ -1,4 +1,4 @@
-// exercicio proposto. 
+// exercicio proposto usando o for para entrada de dados. 
 import java.util.Scanner;
 import java.util.Locale;
 
