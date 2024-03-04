@@ -14,8 +14,10 @@ public class ExerFixacao4 {
 		int soma1;
 		int soma2 = 0;
 		
+		System.out.println("");
+		System.out.println("Terão " + nVezes + " entradas");
 		for (int i = 1; i <= nVezes; i++) {
-			System.out.println("Entrada n° " + i);
+			System.out.print("Entrada n° " + i + ": ");
 			soma1 = entrada.nextInt();
 			soma2 += soma1;
 		}
