@@ -21,7 +21,7 @@ public class ExerFixacao2 {
 		System.out.println(s3);
 		sc.close();
 		
-		System.out.println("Oooooi ");
+		System.out.println("Fim do código");
 
 	}
 
