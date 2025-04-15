@@ -18,7 +18,14 @@ public class Exe1Aula {
 		// duas casas decimais e %n indica que vai pular uma linha, mesmo que \n
 		System.out.printf("%.2f\n", x);
 		System.out.printf("%.4f%n", x);
-
+		
+//		Tipos de Variáveis
+//		Tipo número inteiro 
+		int idade = 25;
+//		Tipo deciaml
+		double altura = 1.68;
+//		Cáractere único
+		char sexo = 'F';
 	}
 
 }
