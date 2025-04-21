@@ -1,3 +1,4 @@
+//Para concatenar vários elementos em um mesmo comando de escrita
 
 public class Exe4Aula {
 
@@ -11,5 +12,4 @@ public class Exe4Aula {
 		//interpolado dentro de uma String 
 	}
 
-}
- 
+} 

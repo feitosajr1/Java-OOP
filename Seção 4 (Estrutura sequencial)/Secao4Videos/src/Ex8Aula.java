@@ -20,8 +20,7 @@ public class Ex8Aula {
 		
 		System.out.printf("%.2f%n", x);
 		System.out.printf("%.2f 2 casas decimais%n", x);
-		System.out.printf("%.4f 4 casas deciamaisf%n", x);
-		
+		System.out.printf("%.4f 4 casas deciamais%n", x);
 	}
 
 }
