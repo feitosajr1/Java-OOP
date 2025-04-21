@@ -10,16 +10,25 @@ public class ExRev1Aula {
 //		"sc.close()"
 		Scanner sc = new Scanner(System.in);
 		
-//		Para ler uma palavra (texto sem espaços)
+//		Para ler uma palavra (texto sem espaços)x = sc.next();
 		String x, y;
 		System.out.println("Digite uma palavra");
 		x = sc.next();
 		System.out.println("Digite outra palavra:");
 		y = sc.next();
-		System.out.println("Você digitou: " + x + " e depois: " + y);
-		System.out.printf("Você digitou: %s e depois: %s", x, y  );
+//		Para ler um número inteiro
+		int i;
+		System.out.println("Agora digite um número inteiro");
+		i = sc.nextInt();
+//		Para ler um número com ponto flutuante x = sc.nextDouble();
+		Double d;
+		System.out.println("Agora digite um número com 4 casas decimais");
+		d = sc.nextDouble();
 		
-//		PAREI NO MINUTO 5:30 DO VÍDEO 26. ENTRADA DE DADOS EM JAVA
+		System.out.printf("Você digitou: %s%nDepois digitou: %s%n", x, y  );
+		System.out.printf("O número inteiro foi: " + i);
+		System.out.println(d);
+		System.out.printf("Número digitado com 2 casas decimais: %.2f%nNúmero digitado com três casas decimais: %.3f%nNúmero digitado com quatro casas decimais: %.4f%n", d, d, d);
 		sc.close();	
 	}
 }
