@@ -35,5 +35,3 @@ public class ExRev2Aula {
 	}
 
 }
-
-//PAREI NO VÍDEO 28.FUNÇÕES MATEMATICAS COM JAVA 
