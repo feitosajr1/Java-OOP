@@ -31,7 +31,5 @@ public class ExRev3Aula {
 		B = Math.abs(z);
 		System.out.println("O valor absoluto de " + y + " = " + A);
 		System.out.println("O valor absoluto de " + z + " = " + B);
-
 	}
-
 }
